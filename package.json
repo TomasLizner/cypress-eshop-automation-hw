@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "cypress-eshop-automation-hw",
+  "version": "0.1.0",
+  "description": "This repo contains demonstration of favourite e-shop test automation using Cypress.",
+  "scripts": {
+    "cypress:open": "cypress open"
+  }
+}
