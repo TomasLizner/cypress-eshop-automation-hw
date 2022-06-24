@@ -5,5 +5,11 @@
   "description": "This repo contains demonstration of favourite e-shop test automation using Cypress.",
   "scripts": {
     "cypress:open": "cypress open"
+  },
+  "main": "index.js",
+  "author": "Tomas Lizner",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.2.0"
   }
 }
