@@ -4,7 +4,7 @@ describe("Add two most expensive TVs to the shopping cart.", () => {
   const SEARCH_FIELD_ID = "EXPS"
 
   beforeEach(()=>{
-    cy.visit("https://www.mironet.cz/")
+    cy.visit("/")
     cy.get('.col-text > .ButtonDef').click()
   })
 
